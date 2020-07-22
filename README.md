@@ -16,10 +16,10 @@
 
 ##### Joomla development
 1. Template Monster (2013-2014)
-http://www.templatemonster.com/demo/46096.html 
-http://www.templatemonster.com/demo/46099.html 
-http://www.templatemonster.com/demo/46171.html 
-http://www.templatemonster.com/demo/45600.html
+http://www.templatemonster.com/demo/46096.html  
+http://www.templatemonster.com/demo/46099.html  
+http://www.templatemonster.com/demo/46171.html  
+http://www.templatemonster.com/demo/45600.html  
 2. http://lvivrada.gov.ua/ (2015)
 3. http://museum.lviv.ua/ (2013)
 
