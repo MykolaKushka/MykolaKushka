@@ -24,7 +24,7 @@ http://www.templatemonster.com/demo/45600.html
 3. http://museum.lviv.ua/ (2013)
 
 ##### Upwork projects
-https://www.upwork.com/fl/mykolakushka
+https://www.upwork.com/freelancers/~016d04c3546b71b76a
 
 ##### Study, test and pet projects HTML (PUG), CSS (LESS, SCSS) Bootstrap, JS, jQuery, Node,  Express, Grunt, Gulp, Webpack, WordPress, React
 1. https://github.com/NickMonster/Movies-App-DB
