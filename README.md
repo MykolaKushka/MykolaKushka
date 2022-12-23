@@ -1,7 +1,7 @@
 ### Projects portfolio
 
 ##### Frontend development with HTML (PUG), CSS (LESS, SCSS) Bootstrap, JS, jQuery, Node,  Express, Grunt, Gulp, Webpack
-1. https://nickmonster.github.io/MegaHR/ (2021)
+1. [https://mykolakushka.github.io/MegaHR/](https://mykolakushka.github.io/MegaHR/) (2021)
 2. https://truelinked.com/ (2018-2019)
 3. https://operabase.com (2019-2020)
 4. https://likvidoinkasso.dk/ (2017-2018)
@@ -28,6 +28,6 @@ http://www.templatemonster.com/demo/45600.html
 https://www.upwork.com/freelancers/~016d04c3546b71b76a
 
 ##### Study, test and pet projects HTML (PUG), CSS (LESS, SCSS) Bootstrap, JS, jQuery, Node,  Express, Grunt, Gulp, Webpack, WordPress, React
-1. https://github.com/NickMonster/Movies-App-DB
-2. https://github.com/NickMonster/JS-Tetris
-3. https://github.com/NickMonster/DC
+1. [https://github.com/MykolaKushka/Movies-App-DB](https://github.com/MykolaKushka/Movies-App-DB)
+2. [https://github.com/MykolaKushka/JS-Tetris](https://github.com/MykolaKushka/JS-Tetris)
+3. [https://github.com/MykolaKushka/DC](https://github.com/MykolaKushka/DC)
