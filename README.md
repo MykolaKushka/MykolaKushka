@@ -1,12 +1,11 @@
 ### Projects portfolio
 
-##### Frontend development with HTML (PUG), CSS (LESS, SCSS) Bootstrap, JS, jQuery, Node,  Express, Grunt, Gulp, Webpack
-1. [https://mykolakushka.github.io/MegaHR/](https://mykolakushka.github.io/MegaHR/) (2021)
-2. https://truelinked.com/ (2018-2019)
+##### Frontend development with HTML (PUG), CSS (LESS, SCSS) Bootstrap, JS, jQuery, Node,  Express, Grunt, Gulp, Webpack, React
+1. https://zsu.kudest.com/about.html 
+2. [https://mykolakushka.github.io/MegaHR/](https://mykolakushka.github.io/MegaHR/) (2021)
 3. https://operabase.com (2019-2020)
 4. https://likvidoinkasso.dk/ (2017-2018)
 5. https://www.saxo.com/dk/ (2014-2017)
-6. https://bitbucket.org/Nick_Monster/terraz/src/master/ (2020)
 
 ##### WordPress development
 1. https://crazyagro.com/ (2019)
@@ -22,7 +21,7 @@ http://www.templatemonster.com/demo/46099.html
 http://www.templatemonster.com/demo/46171.html  
 http://www.templatemonster.com/demo/45600.html  
 2. http://lvivrada.gov.ua/ (2015)
-3. http://museum.lviv.ua/ (2013)
+3. http://museum.lviv.ua/ (2023)
 
 ##### Upwork projects
 https://www.upwork.com/freelancers/~016d04c3546b71b76a
@@ -30,4 +29,3 @@ https://www.upwork.com/freelancers/~016d04c3546b71b76a
 ##### Study, test and pet projects HTML (PUG), CSS (LESS, SCSS) Bootstrap, JS, jQuery, Node,  Express, Grunt, Gulp, Webpack, WordPress, React
 1. [https://github.com/MykolaKushka/Movies-App-DB](https://github.com/MykolaKushka/Movies-App-DB)
 2. [https://github.com/MykolaKushka/JS-Tetris](https://github.com/MykolaKushka/JS-Tetris)
-3. [https://github.com/MykolaKushka/DC](https://github.com/MykolaKushka/DC)
