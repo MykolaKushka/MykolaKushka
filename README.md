@@ -1,17 +1,17 @@
 ### Projects portfolio
 
 ##### Frontend development with HTML (PUG), CSS (LESS, SCSS) Bootstrap, JS, jQuery, Node,  Express, Grunt, Gulp, Webpack, React
-https://nobrumusic.com/ (2023)
-https://generationimpact.global/ (2023)
-https://zsu.kudest.com/about.html (2023)
-https://www.wallst-fx.com/ (2023)
-https://operabase.com (2019-2020)
-https://likvidoinkasso.dk/ (2017-2018)
-https://www.saxo.com/dk/ (2014-2017)
+1. https://nobrumusic.com/ (2023)
+2. https://generationimpact.global/ (2023)
+3. https://zsu.kudest.com/about.html (2023)
+4. https://www.wallst-fx.com/ (2023)
+5. https://operabase.com (2019-2020)
+6. https://likvidoinkasso.dk/ (2017-2018)
+7. https://www.saxo.com/dk/ (2014-2017)
 
 ##### Webflow projects
-https://www.yourgermanlawyer.com/ (2024)
-https://www.unibrix.com/ (2023)
+1. https://www.yourgermanlawyer.com/ (2024)
+2. https://www.unibrix.com/ (2023)
 
 ##### WordPress development
 1. https://crazyagro.com/ (2019)
